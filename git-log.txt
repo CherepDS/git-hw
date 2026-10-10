@@ -1,0 +1,43 @@
+d.cherep@notebook-cherep MINGW64 ~/Desktop/git-hw (main)
+$ git log
+commit 991e7954503b5dd5e2bbeab550b5aca040739214 (HEAD -> main, origin/main, origin/HEAD)
+Merge: b9e2e66 91270c0
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:21:00 2026 +0300
+
+    Merge branch 'feature-b'
+
+    # Conflicts:
+    #       README.txt
+
+commit 91270c0bc4132a67400cb0524e1bae4e6e089171 (origin/feature-b, feature-b)
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:19:04 2026 +0300
+
+    add string to merge conflict
+
+commit b9e2e6605784b7009e45afe47655c310803f143a
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:15:27 2026 +0300
+
+    add string to merge conflict
+
+commit d8e00867825f1b77a3c80e66df55331d49f4e45e (feature-a)
+Merge: 59e6086 1fbda46
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:45:39 2026 +0300
+
+    remove rebase conflict
+
+commit 59e60862348c61073e19f2c52f7b29f3b5536354
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:42:31 2026 +0300
+
+    updates from main with rebase
+
+commit abe3d0e66258aaa4adf21a785f26e00ab35accf3
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:30:27 2026 +0300
+
+    rebase feature-b -> main
+:
