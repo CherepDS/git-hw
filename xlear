@@ -1,0 +1,64 @@
+[33mcommit 991e7954503b5dd5e2bbeab550b5aca040739214[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b9e2e66 91270c0
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:21:00 2026 +0300
+
+    Merge branch 'feature-b'
+    
+    # Conflicts:
+    #       README.txt
+
+[33mcommit 91270c0bc4132a67400cb0524e1bae4e6e089171[m[33m ([m[1;31morigin/feature-b[m[33m, [m[1;32mfeature-b[m[33m)[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:19:04 2026 +0300
+
+    add string to merge conflict
+
+[33mcommit b9e2e6605784b7009e45afe47655c310803f143a[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 11:15:27 2026 +0300
+
+    add string to merge conflict
+
+[33mcommit d8e00867825f1b77a3c80e66df55331d49f4e45e[m[33m ([m[1;32mfeature-a[m[33m)[m
+Merge: 59e6086 1fbda46
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:45:39 2026 +0300
+
+    remove rebase conflict
+
+[33mcommit 59e60862348c61073e19f2c52f7b29f3b5536354[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:42:31 2026 +0300
+
+    updates from main with rebase
+
+[33mcommit abe3d0e66258aaa4adf21a785f26e00ab35accf3[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:30:27 2026 +0300
+
+    rebase feature-b -> main
+
+[33mcommit 1fbda46234d63af551c284337c5293b967fce790[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:30:27 2026 +0300
+
+    add string 3
+
+[33mcommit 6c661938ba4c234d53874de154234d3cf798e8b7[m[33m ([m[1;31morigin/feature-a[m[33m)[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:28:19 2026 +0300
+
+    add string 4
+
+[33mcommit 0fcb65446f2b6388a1e77996d3451e8c616acf07[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:27:14 2026 +0300
+
+    add string 3
+
+[33mcommit 5092a8225fb7b378772b8b75e20269dffbc93ee2[m
+Author: Cherep Dmitriy <Dmitrcherep@yandex.ru>
+Date:   Sat Oct 10 10:25:23 2026 +0300
+
+    add README.txt
